@@ -49,7 +49,7 @@ This simple Bookstore API is built using **FastAPI** and **SQLAlchemy** for mana
 
 ## **Database Setup**
 
-By default, the API uses SQLite as its database. If you want to use your own database, follow the steps in the Using Your Own Database section.
+By default, the API uses SQLite as its database. If you want to use your own database, follow the steps in the [Using Your Own Database](#using-your-own-database) section.
 
 To create the initial database and tables, run the following command after installation:
 
