@@ -70,11 +70,15 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 Here is a list of the available API endpoints:
 
-GET /books/ - Retrieve a list of all books
-GET /books/{book_id} - Retrieve a specific book by its ID
-POST /books/ - Add a new book
-PUT /books/{book_id} - Update details of an existing book
-DELETE /books/{book_id} - Delete a book
+- GET /books/ - Retrieve a list of all books
+  
+- GET /books/{book_id} - Retrieve a specific book by its ID
+  
+- POST /books/ - Add a new book
+
+- PUT /books/{book_id} - Update details of an existing book
+
+- DELETE /books/{book_id} - Delete a book
 
 ## **Testing the API**
 
